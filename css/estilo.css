@@ -1,0 +1,15 @@
+h1{
+	color: red;
+	font-family: 'Festive', cursive;
+	font-size: 3rem;
+}
+
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+#fondo{
+	background-color: indianred;
+}
+a:link{
+	color: blueviolet;
+}
